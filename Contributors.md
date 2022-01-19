@@ -2,8 +2,8 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Xin Wang](https://github.com/xw2519)
-- [Sanchit-Batra] (https://github.com/Sanchit-Batra)
-- [Anson Antony] (https://github.com/ansonantony)
+- [Sanchit-Batra](https://github.com/Sanchit-Batra)
+- [Anson Antony](https://github.com/ansonantony)
 - [Alexander Marasco](https://github.com/Marascax)
 - [Ananya](https://github.com/ananya182001)
 - [Charlie Sloan](https://github.com/CharlieSlaughadhain)
